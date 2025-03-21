@@ -1,4 +1,4 @@
-# Download de Vídeos do YouTube - Use este script por sua conta e risco. 
+# Download de Audio e Vídeos do YouTube - Use este script por sua conta e risco. 
 Baixar conteúdo protegido por direitos autorais pode ser ilegal.
 
 ## Descrição
