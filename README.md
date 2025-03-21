@@ -1,4 +1,5 @@
-# Download de Vídeos do YouTube (Tkinter)
+# Download de Vídeos do YouTube - Use este script por sua conta e risco. 
+Baixar conteúdo protegido por direitos autorais pode ser ilegal.
 
 ## Descrição
 
@@ -15,20 +16,12 @@ Script Python com interface gráfica (Tkinter) para baixar vídeos do YouTube. U
 *   Tenta atualizar a data do arquivo baixado.
 *   Inclui instalador automático do FFmpeg para Windows.
 
-## Dependências
-
-*   Python 3.x
-*   Tkinter (geralmente já instalado com o Python)
-*   `yt-dlp`: `pip install yt-dlp`
-*   `audioclipextractor`: `pip install audioclipextractor`
-*   `lameenc`: `pip install lameenc`
-*   FFmpeg (necessário para extrair áudio - script de instalação para Windows incluído)
-
-## Instalação
+## Instalação 
 
 1.  Instale o Python 3.x: [https://www.python.org/](https://www.python.org/)
-2.  Instale as dependências: `pip install yt-dlp audioclipextractor lameenc`
-3.  Execute o script: `python nome_do_script.py`
+2.  Instale FFMPEG (Programa para instalar no windows junto a Pasta Prncipal)
+3.  Instale as dependências: atraves do pip instal ou use o arquivo "intalar bibliotecas necessarias.py"
+4.  Execute o script: "youtube_download.py"
 
 ## Uso
 
