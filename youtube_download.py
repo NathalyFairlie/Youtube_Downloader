@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 from tkinter import *  # Importa todas as funções do Tkinter
 from tkinter import filedialog, messagebox, ttk  # Importa componentes específicos
 import yt_dlp  # Biblioteca para baixar vídeos do YouTube
